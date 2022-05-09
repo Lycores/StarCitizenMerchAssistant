@@ -1,0 +1,79 @@
+count,from,to,insurance,fromMsrp,toMsrp,pledge.amount,pledge.currencyCode,pledge.currencyType,isGiftableCount,isMeltableCount,isGiftedCount,isBuyback
+1,Defender,400i,12,220,250,30,USD,Store Credit,0,1,0,FALSE
+1,San'tok.yāi,400i,12,220,250,30,USD,Store Credit,0,1,0,FALSE
+1,Scorpius,400i,12,220,250,30,USD,Store Credit,0,1,0,FALSE
+1,Corsair,400i,12,215,250,35,USD,Store Credit,0,1,0,FALSE
+1,Hurricane,400i,12,195,250,55,USD,Store Credit,0,1,0,FALSE
+37,Arrow,Hull A,,75,90,5,USD,Store Credit,37,37,0,FALSE
+36,Mercury,Starfarer,,260,300,15,USD,Store Credit,36,36,0,FALSE
+11,Razor,Expanse,,145,150,5,USD,Store Credit,0,11,0,FALSE
+1,Valkyrie,Genesis,,375,400,25,USD,Store Credit,1,1,0,FALSE
+1,Cutlass Red,Vulture,,135,140,5,USD,Store Credit,1,1,0,FALSE
+1,Vanguard Warden,Eclipse,,260,300,15,USD,Store Credit,1,1,0,FALSE
+3,Defender,Constellation Andromeda,,220,240,5,USD,Store Credit,2,3,0,FALSE
+1,Carrack Expedition w/C8X,Odyssey,,645,700,55,USD,Store Credit,0,1,0,FALSE
+1,Redeemer,Endeavor,,325,350,25,USD,Store Credit,0,1,0,FALSE
+1,M2 Hercules,Orion,,520,575,55,USD,Store Credit,0,1,0,FALSE
+1,Terrapin,Railen,,220,225,5,USD,Store Credit,0,1,0,FALSE
+1,600i Explorer,Merchantman,,475,550,25,USD,Store Credit,0,1,0,FALSE
+1,Constellation Andromeda,400i,,240,250,10,USD,undefined,0,0,0,TRUE
+1,Vanguard Hoplite,400i,,235,250,15,USD,undefined,0,0,0,TRUE
+1,Railen,400i,,225,250,25,USD,undefined,0,0,0,TRUE
+1,Cutlass Steel,400i,,235,250,15,USD,undefined,0,0,0,TRUE
+1,Terrapin,400i,,220,250,30,USD,undefined,0,0,0,TRUE
+35,Razor,Expanse,,145,150,5,USD,undefined,0,0,0,TRUE
+1,MOLE,Starfarer Gemini,,315,340,25,USD,undefined,0,0,0,TRUE
+1,Redeemer,Starfarer Gemini,,325,340,15,USD,undefined,0,0,0,TRUE
+1,Caterpillar,Starfarer Gemini,,330,340,10,USD,undefined,0,0,0,TRUE
+3,Cutlass Red,Razor EX,,135,155,20,USD,undefined,0,0,0,TRUE
+3,Cutlass Red,Razor LX,,135,150,15,USD,undefined,0,0,0,TRUE
+3,Cutlass Red,Razor,,135,145,10,USD,undefined,0,0,0,TRUE
+1,Caterpillar Pirate Edition,Starfarer Gemini,,330,340,10,USD,undefined,0,0,0,TRUE
+5,Starfarer,Redeemer,,300,325,25,USD,undefined,0,0,0,TRUE
+6,Hull B,Expanse,,140,150,10,USD,undefined,0,0,0,TRUE
+1,RAFT,Expanse,,125,150,25,USD,undefined,0,0,0,TRUE
+3,Ballista,Expanse,,140,150,10,USD,undefined,0,0,0,TRUE
+1,Cutlass Red,Expanse,,135,150,15,USD,undefined,0,0,0,TRUE
+30,MOLE,Redeemer,,315,325,10,USD,undefined,0,0,0,TRUE
+2,400i,Redeemer,,250,325,75,USD,undefined,0,0,0,TRUE
+1,Ares Ion,Redeemer,,250,325,75,USD,undefined,0,0,0,TRUE
+1,Ares Inferno,Redeemer,,250,325,75,USD,undefined,0,0,0,TRUE
+2,Retaliator Bomber,Redeemer,,275,325,50,USD,undefined,0,0,0,TRUE
+2,Eclipse,Redeemer,,300,325,25,USD,undefined,0,0,0,TRUE
+1,Mercury,Redeemer,,260,325,65,USD,undefined,0,0,0,TRUE
+1,Constellation Aquila,Redeemer,,310,325,15,USD,undefined,0,0,0,TRUE
+11,Valkyrie,C2 Hercules,,375,400,25,USD,undefined,0,0,0,TRUE
+10,600i Explorer,M2 Hercules,,475,520,45,USD,undefined,0,0,0,TRUE
+10,Hammerhead,A2 Hercules,,725,750,25,USD,undefined,0,0,0,TRUE
+4,Hull C,C2 Hercules,,350,400,50,USD,undefined,0,0,0,TRUE
+2,Prowler,M2 Hercules,,440,520,80,USD,undefined,0,0,0,TRUE
+2,600i Touring,M2 Hercules,,435,520,85,USD,undefined,0,0,0,TRUE
+2,RAFT,Ballista,,125,140,15,USD,undefined,0,0,0,TRUE
+2,Cutlass Red,Ballista,,135,140,5,USD,undefined,0,0,0,TRUE
+2,RAFT,Mantis,,125,150,25,USD,undefined,0,0,0,TRUE
+2,RAFT,Freelancer MAX,,125,150,25,USD,undefined,0,0,0,TRUE
+2,Ballista,Freelancer MAX,,140,150,10,USD,undefined,0,0,0,TRUE
+5,Cutlass Black,Freelancer,,100,110,10,USD,undefined,0,0,0,TRUE
+1,Hammerhead Best In Show Edition,A2 Hercules,,725,750,25,USD,undefined,0,0,0,TRUE
+1,Nautilus Solstice Edition,A2 Hercules,,725,750,25,USD,undefined,0,0,0,TRUE
+1,Nautilus,A2 Hercules,,725,750,25,USD,undefined,0,0,0,TRUE
+6,Caterpillar,Hull C,,330,350,20,USD,undefined,0,0,0,TRUE
+1,Cutlass Black,Nova,,100,120,20,USD,undefined,0,0,0,TRUE
+2,Ares Ion,Mercury,,250,260,10,USD,undefined,0,0,0,TRUE
+4,Constellation Andromeda,400i,,240,250,10,USD,undefined,0,0,0,TRUE
+4,Hull D,600i Explorer,,450,475,25,USD,undefined,0,0,0,TRUE
+3,Eclipse,MOLE,,300,315,15,USD,undefined,0,0,0,TRUE
+1,Cutlass Red,Vulture,,135,140,5,USD,undefined,0,0,0,TRUE
+3,Cutlass Black,F7C Hornet,,100,110,10,USD,undefined,0,0,0,TRUE
+2,Nomad,Gladius,,80,90,10,USD,undefined,0,0,0,TRUE
+2,Gladius,Cutlass Black,,90,100,10,USD,undefined,0,0,0,TRUE
+3,F7C-M Super Hornet,Constellation Taurus,,180,190,10,USD,undefined,0,0,0,TRUE
+3,ROC,300i,,55,60,5,USD,undefined,0,0,0,TRUE
+1,100i,Mustang Gamma,,50,55,5,USD,undefined,0,0,0,TRUE
+4,Constellation Aquila,MOLE,,310,315,5,USD,undefined,0,0,0,TRUE
+4,Eclipse,Constellation Aquila,,300,310,10,USD,undefined,0,0,0,TRUE
+1,Mustang Alpha,Nox,,30,45,15,USD,undefined,0,0,0,TRUE
+2,Mustang Alpha,Dragonfly Black,,30,40,10,USD,undefined,0,0,0,TRUE
+5,Freelancer DUR,Hull B,,135,140,5,USD,undefined,0,0,0,TRUE
+7,Prowler,Hull D,,440,450,10,USD,undefined,0,0,0,TRUE
+4,Starfarer Gemini,Hull C,,340,350,10,USD,undefined,0,0,0,TRUE
